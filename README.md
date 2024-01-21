@@ -1,6 +1,6 @@
 # ArIsRoseHackClicker
 Rose Hack submission
 
-____ Clicker:
+Rose Clicker:
 
 A Cookie clicker like game with a modern and futuristic twist.
